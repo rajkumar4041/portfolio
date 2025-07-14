@@ -177,7 +177,7 @@ const schema = {
   type: "Organization",
   name: "Once UI",
   description: home.description,
-  email: "lorant@once-ui.com",
+  email: "rajkumarrathod414@gmail.com",
 };
 
 // social links
